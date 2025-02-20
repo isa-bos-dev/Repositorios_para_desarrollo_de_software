@@ -40,3 +40,7 @@ Este repositorio recopila enlaces a repositorios de GitHub que ofrecen recursos 
 - **✨ Tecnologías y recursos**  
   - [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)  
     Un repositorio que recopila listas "awesome" de todo tipo de tecnologías y recursos.
+
+- **🏴󠁭󠁣󠁳󠁯󠁿App Open Source**
+  - [https://github.com/syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo)
+    Practica la escritura de letras japonesas, aprende sus significados y palabras relacionadas.
